@@ -38,11 +38,11 @@ $color-primary-dark: #332f2f;
 }
 
 .card--light {
-    background-color: rgba($color-primary-light: #eeec86, 0.8);
+    background-color: rgba($color-primary-light,0.8);
 }
 
 .card--dark {
-    background-color: rgba($color-primary-dark: #332f2f, 0.8);
+    background-color: rgba($color-primary-dark, 0.8);
 }
 
 /* SPACE COMBINATOR */
